@@ -3,6 +3,7 @@
     justify-content: center;
     align-items: center;
     width: 500px;
+    height: auto;
 }
 
 .bolygo_div{
@@ -27,6 +28,7 @@
 }
 
 #focim{
+    margin-top: 75px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,11 +39,10 @@
     max-width: 40px;
     max-height: 40px;
     border-radius: 100%;
-    background-color: lightblue;
-    position: fixed; /* Vagy 'absolute', attól függően, hogy melyikre van szükséged */
+    position: fixed; 
     bottom: 20px;
     right: 20px;
-    width: 40px; /* Állítsd be a kívánt méretet */
+    width: 40px; 
     height: 40px
 }
 
