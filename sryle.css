@@ -1,4 +1,48 @@
-h1{
-    margin-left: auto;
-    margin-right: auto;
+.bolygo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
 }
+
+.bolygo_div{
+    height: 100%;
+    width: 750px;
+    
+}
+
+.kep{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar{
+    position: fixed;
+}
+
+#osszefog{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#focim{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  rgb(7, 47, 82);
+}
+
+#icon{
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 100%;
+    background-color: lightblue;
+    position: fixed; /* Vagy 'absolute', attól függően, hogy melyikre van szükséged */
+    bottom: 20px;
+    right: 20px;
+    width: 40px; /* Állítsd be a kívánt méretet */
+    height: 40px
+}
+
+
