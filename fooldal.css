@@ -17,3 +17,7 @@ body {
 h1 {
     color: white;
 }
+
+.kerdo {
+    border-radius: 1rem;
+}
