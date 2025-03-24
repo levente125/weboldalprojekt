@@ -29,3 +29,12 @@ input, textarea {
 button {
     border-radius: 1rem;
 }
+
+.navbar{
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    border-radius: 1rem;
+}
