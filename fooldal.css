@@ -21,3 +21,11 @@ h1 {
 .kerdo {
     border-radius: 1rem;
 }
+
+input, textarea {
+    border-radius: 1rem;
+}
+
+button {
+    border-radius: 1rem;
+}
