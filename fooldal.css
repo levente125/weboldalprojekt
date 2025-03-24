@@ -1,7 +1,15 @@
-.bevezeto{
+.bevezeto {
     border-radius: 1rem;
 }
 
-.container{
+.container {
     margin-top: 4rem; 
+}
+
+body {
+    background-image: url(hatter.jpg);
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
 }
