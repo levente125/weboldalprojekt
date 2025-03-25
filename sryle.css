@@ -35,7 +35,7 @@
     color:  rgb(7, 47, 82);
 }
 
-#icon{
+#icon, #sotetmod{
     max-width: 40px;
     max-height: 40px;
     border-radius: 100%;
