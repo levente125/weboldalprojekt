@@ -1,0 +1,47 @@
+.bolygo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: auto;
+}
+
+.div{
+    height: 100%;
+    width: 750px;
+    
+}
+
+.kep{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar{
+    position: fixed;
+}
+
+#osszefog{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#focim{
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  rgb(7, 47, 82);
+}
+
+#icon, #sotetmod{
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 100%;
+    position: fixed; 
+    bottom: 20px;
+    right: 20px;
+    width: 40px; 
+    height: 40px
+}
